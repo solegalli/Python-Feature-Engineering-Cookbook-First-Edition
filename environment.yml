@@ -5,7 +5,6 @@ channels:
 dependencies:
   - _ipyw_jlab_nb_ext_conf=0.1.0=py37_0
   - alabaster=0.7.12=py37_0
-  - anaconda=2019.03=py37_0
   - anaconda-client=1.7.2=py37_0
   - anaconda-navigator=1.9.7=py37_0
   - anaconda-project=0.8.2=py37_0
@@ -29,8 +28,8 @@ dependencies:
   - boto=2.49.0=py37_0
   - bottleneck=1.2.1=py37h452e1ab_1
   - bzip2=1.0.6=hfa6e2cd_5
-  - ca-certificates=2019.1.23=0
-  - certifi=2019.3.9=py37_0
+  - ca-certificates=2019.5.15=0
+  - certifi=2019.6.16=py37_0
   - cffi=1.12.2=py37h7a1dbc1_1
   - chardet=3.0.4=py37_1
   - click=7.0=py37_0
@@ -83,6 +82,7 @@ dependencies:
   - jdcal=1.4=py37_0
   - jedi=0.13.3=py37_0
   - jinja2=2.10=py37_0
+  - joblib=0.13.2=py37_0
   - jpeg=9b=hb83a4c4_2
   - jsonschema=3.0.1=py37_0
   - jupyter=1.0.0=py37_7
@@ -125,8 +125,8 @@ dependencies:
   - mccabe=0.6.1=py37_1
   - menuinst=1.4.16=py37he774522_0
   - mistune=0.8.4=py37he774522_0
-  - mkl=2019.3=203
-  - mkl-service=1.1.2=py37hb782905_5
+  - mkl=2019.4=245
+  - mkl-service=2.0.2=py37he774522_0
   - mkl_fft=1.0.10=py37h14836fe_0
   - mkl_random=1.0.2=py37h343c172_0
   - more-itertools=6.0.0=py37_0
@@ -148,7 +148,7 @@ dependencies:
   - numpydoc=0.8.0=py37_0
   - olefile=0.46=py37_0
   - openpyxl=2.6.1=py37_1
-  - openssl=1.1.1b=he774522_1
+  - openssl=1.1.1c=he774522_1
   - packaging=19.0=py37_0
   - pandas=0.24.2=py37ha925a31_0
   - pandoc=2.2.3.2=0
@@ -210,7 +210,7 @@ dependencies:
   - rope=0.12.0=py37_0
   - ruamel_yaml=0.15.46=py37hfa6e2cd_0
   - scikit-image=0.14.2=py37ha925a31_0
-  - scikit-learn=0.20.3=py37h343c172_0
+  - scikit-learn=0.21.2=py37h6288b17_0
   - scipy=1.2.1=py37h29ff71c_0
   - seaborn=0.9.0=py37_0
   - send2trash=1.5.0=py37_0
@@ -268,6 +268,9 @@ dependencies:
   - zstd=1.3.7=h508b16e_0
   - pip:
     - autopep8==1.4.4
+    - kaggle==1.5.4
+    - python-slugify==3.0.2
+    - text-unidecode==1.2
     - yapf==0.27.0
     - yellowbrick==0.9.1
 prefix: C:\Users\Sole\Anaconda3\envs\feml
