@@ -104,6 +104,8 @@ venv.bak/
 .mypy_cache/
 
 # files
+crx.data
 car.data
+imports-85.data
 *.csv
 *.txt
