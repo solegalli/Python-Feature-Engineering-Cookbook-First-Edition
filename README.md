@@ -10,7 +10,7 @@ Publisher: Packt Publishing
 Language: English
 ISBN: 9781789806311  
 
-[<img src="cover.jpg" width="248">](https://www.packtpub.com/data/python-feature-engineering-cookbook)
+[<img src="./cover.jpg" width="248">](https://www.packtpub.com/data/python-feature-engineering-cookbook)
 
 
 ## Links
