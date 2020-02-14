@@ -1,11 +1,11 @@
-## Python Feature Engineering Cookbook - Code Repository
+﻿## Python Feature Engineering Cookbook - Code Repository
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.7-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 
-Published January 17th, 2020
+Published January 22nd, 2020
 
-Paperback: 338 pages  
+Paperback: 372 pages  
 Publisher: Packt Publishing  
 Language: English
 ISBN: 9781789806311  
